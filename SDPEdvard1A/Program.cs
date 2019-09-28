@@ -10,6 +10,8 @@ namespace SDPEdvard1A
             Console.WriteLine("This is the first commit to repo!");
 
             //Hello, Denis was here!!!
+
+            //that is true
         }
     }
 }
