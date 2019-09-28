@@ -7,7 +7,6 @@ namespace SDPEdvard1A
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("This is the first commit to repo!");
-        }
+            Console.WriteLine("This is the first commit to repo!");        }
     }
 }
